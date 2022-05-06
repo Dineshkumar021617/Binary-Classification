@@ -18,7 +18,7 @@ Binary classification is a form of classification — the process of predicting 
 4. Plot the row values in the graph.
 
 ## Program:
-```
+```python
 /*
 Program to implement binary classification.
 Developed by: Dineshkumar.S
